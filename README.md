@@ -2,6 +2,8 @@
 
 based on the siduck compilation
 
+<img src="https://github.com/SweetMask4/st/blob/main/st-screenshot.png?raw=true">
+
 ## Dependencies
 
 ```
@@ -92,7 +94,5 @@ you can change all of these in config.h
 <br>
 
 ## Themes/Fonts used
-
-- ls-icons: https://github.com/Yash-Handa/logo-ls <br>
 - Xresources: onedark (just `xrdb merge xresourcesfile`, do this everytime you make any change to xresources file) from this repo itself.<br>
-- Font: JetbrainsMono Nerd Font + material design icon fonts
+- Font: JetbrainsMono Nerd Font
